@@ -1,5 +1,15 @@
 # Vitrinova
 
+## Libraries and tools 🛠
+
+•ViewModel<br/>
+•LiveData<br/>
+•Retrofit<br/>
+•OkHttp<br/>
+•Glide<br/>
+•Hilt<br/>
+•Material Design<br/>
+
 ![Ekran Görüntüsü (1454)](https://user-images.githubusercontent.com/76565172/186187939-97bc9284-db86-4b40-8e2f-3bbf0360a01e.png)
 ![Ekran Görüntüsü (1455)](https://user-images.githubusercontent.com/76565172/186187958-0cd41715-bb42-428d-8d30-4871dc11b3e8.png)
 ![Ekran Görüntüsü (1457)](https://user-images.githubusercontent.com/76565172/186187977-f5273570-ef71-4346-b9fc-77a09330fb6e.png)
